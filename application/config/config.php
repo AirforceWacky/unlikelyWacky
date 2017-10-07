@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-//for link to the navigation part
+//for link to the navigation part 
 $config['menu_choices'] = array(
 	'menudata' => array(
 		array('name' => 'Home', 'link' => '/'),
